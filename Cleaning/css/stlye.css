@@ -1,0 +1,52 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(66,66,187,1.00) 0%,rgba(142,142,247,1.00) 1.55%,rgba(24,129,181,1.00) 1.55%,rgba(255,255,255,1.00) 31.09%,rgba(255,255,255,1.00) 57.51%,rgba(81,160,199,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(66,66,187,1.00) 0%,rgba(142,142,247,1.00) 1.55%,rgba(24,129,181,1.00) 1.55%,rgba(255,255,255,1.00) 31.09%,rgba(255,255,255,1.00) 57.51%,rgba(81,160,199,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(66,66,187,1.00) 0%,rgba(142,142,247,1.00) 1.55%,rgba(24,129,181,1.00) 1.55%,rgba(255,255,255,1.00) 31.09%,rgba(255,255,255,1.00) 57.51%,rgba(81,160,199,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(66,66,187,1.00) 0%,rgba(142,142,247,1.00) 1.55%,rgba(24,129,181,1.00) 1.55%,rgba(255,255,255,1.00) 31.09%,rgba(255,255,255,1.00) 57.51%,rgba(81,160,199,1.00) 100%);
+}
+.align-baseline .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(54,124,158,1.00) 3.63%,rgba(248,242,242,1.00) 25.39%,rgba(248,242,242,1.00) 66.32%,rgba(78,138,168,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(54,124,158,1.00) 3.63%,rgba(248,242,242,1.00) 25.39%,rgba(248,242,242,1.00) 66.32%,rgba(78,138,168,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(54,124,158,1.00) 3.63%,rgba(248,242,242,1.00) 25.39%,rgba(248,242,242,1.00) 66.32%,rgba(78,138,168,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(54,124,158,1.00) 3.63%,rgba(248,242,242,1.00) 25.39%,rgba(248,242,242,1.00) 66.32%,rgba(78,138,168,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #0015FD;
+}
+.card.col-md-4.col-lg-11 .card-body .btn.btn-primary {
+    background-color: #0519FB;
+    color: #FFFFFF;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #2D8CEB;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #2D8CEB;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #2D8CEB;
+}
+#headingOne1 .mb-0 a {
+    background-color: #2D8CEB;
+    color: #FFFFFF;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+.container li footer {
+    color: #FFFFFF;
+}
+.carousel-item .carousel-caption p {
+    color: #FF5700;
+    text-shadow: 0px 0px #0A00FF;
+}
+.carousel-item.active .carousel-caption h5 {
+    color: #FD6300;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #F0F0F0;
+}
